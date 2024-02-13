@@ -35,6 +35,11 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+```
 
+## Demo
+
+```md
 [screenshot1](./examples/13.02.2024_11.20.01_REC.png)
 [screenshot1](./examples/13.02.2024_11.20.15_REC.png)
+```
