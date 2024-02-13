@@ -39,7 +39,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demo
 
-```md
-[screenshot1](./examples/13.02.2024_11.20.01_REC.png)
-[screenshot1](./examples/13.02.2024_11.20.15_REC.png)
-```
+
+The following image shows the web application's appearance and functionality:
+[screenshot1](./assets/images/13.02.2024_11.20.01_REC.png)
+[screenshot1](./assets/images/13.02.2024_11.20.15_REC.png)
